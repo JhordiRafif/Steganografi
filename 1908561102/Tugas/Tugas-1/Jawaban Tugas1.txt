@@ -1,2 +1,2 @@
 1. Eksekusi dilakukan pada gambar, dengan hasil akhir yang diberi nama fruitsRafif.jpeg yang dimana gambar sudah di sisipkan sebuah pesan.
-2. modPix berfungsi untuk mengubah data string dari kata kata yang di inputkan kedalam data gambar yang dituju
+2. modPix berfungsi untuk mengubah data string dari kata kata yang di inputkan kedalam data gambar yang dituju.

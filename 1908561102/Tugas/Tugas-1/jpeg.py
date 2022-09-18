@@ -63,7 +63,7 @@ def encode_enc(newimg, data):
 def encode():
     img = input("Enter image name(with extension): ")
     #
-    # You can use either short path or full path
+    # You can use either short path or full path 
     # short path: fruits.jpeg
     # full path: /home/arimogi/Projects/Python/Steganografi/Tugas/Tugas-1/fruits.jpeg
     #
